@@ -1,0 +1,30 @@
+.card_view{
+    background-color: white;
+    border: 1px solid ;
+    padding: 20px 40px;
+    border: 2px solid rgb(156, 149, 149);
+    border-radius: 8px;
+    text-align: left;
+    box-shadow: 5px 10px 8px #888888;
+    margin: 20px;
+
+   
+    
+}
+.card_view h2{
+margin: 0;
+}
+.card_view h3{
+    margin: 0;
+    }
+.card_view button{
+    padding: 10PX 20PX;
+    background-color: rgb(15, 174, 236);
+    color: white;
+    border: none;
+    border-radius: 8px;
+  }
+  button:hover{
+      background-color: black;
+      
+  }
